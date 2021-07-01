@@ -23,7 +23,3 @@ $ python3 images.py
 $ python3 realtime.py
 ```
 
-## Might Do
-- [ ] Try out Yolo v4 and v5
-----
-
