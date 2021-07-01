@@ -1,4 +1,3 @@
-# GundetectionwithYolo
 ---
 # Firearm_Detector_v2
 
@@ -22,4 +21,8 @@ $ python3 images.py
 ```python
 $ python3 realtime.py
 ```
+
+## Might Do
+- [ ] Try out Yolo v4 and v5
+----
 
